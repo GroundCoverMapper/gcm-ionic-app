@@ -1,0 +1,7 @@
+{
+  "name": "Ground Cover Mapper",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
